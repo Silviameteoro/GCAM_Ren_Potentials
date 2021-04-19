@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<scenario>
+	<world>
+		<region name="Central America and Caribbean">
+			<renewresource name="onshore wind resource">
+				<sub-renewable-resource name="onshore wind resource">
+					<grade name="grade 1">
+						<available>0</available>
+						<extractioncost>0</extractioncost>
+					</grade>
+					<grade name="grade 2">
+						<available>0.44633</available>
+						<extractioncost>2.5363</extractioncost>
+					</grade>
+					<grade name="grade 3">
+						<available>1.0</available>
+						<extractioncost>21.1356</extractioncost>
+					</grade>
+					<maxSubResource fillout="1" year="2075">0.95289</maxSubResource>
+				</sub-renewable-resource>
+			</renewresource>
+		</region>
+		<region name="Indonesia">
+			<renewresource name="onshore wind resource">
+				<sub-renewable-resource name="onshore wind resource">
+					<grade name="grade 1">
+						<available>0</available>
+						<extractioncost>0</extractioncost>
+					</grade>
+					<grade name="grade 2">
+						<available>1.0</available>
+						<extractioncost>21.1356</extractioncost>
+					</grade>
+					<maxSubResource fillout="1" year="2075">0.32923</maxSubResource>
+				</sub-renewable-resource>
+			</renewresource>
+		</region>
+		<region name="South America_Northern">
+			<renewresource name="onshore wind resource">
+				<sub-renewable-resource name="onshore wind resource">
+					<grade name="grade 1">
+						<available>0</available>
+						<extractioncost>0</extractioncost>
+					</grade>
+					<grade name="grade 2">
+						<available>0.17577</available>
+						<extractioncost>0.5764</extractioncost>
+					</grade>
+					<grade name="grade 3">
+						<available>0.1952</available>
+						<extractioncost>4.5291</extractioncost>
+					</grade>
+					<grade name="grade 4">
+						<available>0.24811</available>
+						<extractioncost>6.3407</extractioncost>
+					</grade>
+					<grade name="grade 5">
+						<available>0.29293</available>
+						<extractioncost>8.877</extractioncost>
+					</grade>
+					<grade name="grade 6">
+						<available>1.0</available>
+						<extractioncost>27.4763</extractioncost>
+					</grade>
+					<maxSubResource fillout="1" year="2075">1.37191</maxSubResource>
+				</sub-renewable-resource>
+			</renewresource>
+		</region>
+		<region name="South Korea">
+			<renewresource name="onshore wind resource">
+				<sub-renewable-resource name="onshore wind resource">
+					<grade name="grade 1">
+						<available>0</available>
+						<extractioncost>0</extractioncost>
+					</grade>
+					<grade name="grade 2">
+						<available>1</available>
+						<extractioncost>0.05</extractioncost>
+					</grade>
+					<maxSubResource fillout="1" year="2075">0.04085</maxSubResource>
+				</sub-renewable-resource>
+			</renewresource>
+		</region>
+		<region name="Southeast Asia">
+			<renewresource name="onshore wind resource">
+				<sub-renewable-resource name="onshore wind resource">
+					<grade name="grade 1">
+						<available>0</available>
+						<extractioncost>0</extractioncost>
+					</grade>
+					<grade name="grade 2">
+						<available>0.30952</available>
+						<extractioncost>0.5764</extractioncost>
+					</grade>
+					<grade name="grade 3">
+						<available>0.31679</available>
+						<extractioncost>1.2681</extractioncost>
+					</grade>
+					<grade name="grade 4">
+						<available>0.3303</available>
+						<extractioncost>2.1136</extractioncost>
+					</grade>
+					<grade name="grade 5">
+						<available>0.36572</available>
+						<extractioncost>3.1703</extractioncost>
+					</grade>
+					<grade name="grade 6">
+						<available>0.37682</available>
+						<extractioncost>4.5291</extractioncost>
+					</grade>
+					<grade name="grade 7">
+						<available>0.39161</available>
+						<extractioncost>6.3407</extractioncost>
+					</grade>
+					<grade name="grade 8">
+						<available>0.42058</available>
+						<extractioncost>8.877</extractioncost>
+					</grade>
+					<grade name="grade 9">
+						<available>1.0</available>
+						<extractioncost>27.4763</extractioncost>
+					</grade>
+					<maxSubResource fillout="1" year="2075">5.1108</maxSubResource>
+				</sub-renewable-resource>
+			</renewresource>
+		</region>
+	</world>
+</scenario>

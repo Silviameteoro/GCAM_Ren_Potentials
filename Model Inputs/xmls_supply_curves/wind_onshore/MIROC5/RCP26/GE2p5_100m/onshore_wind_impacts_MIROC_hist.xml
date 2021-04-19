@@ -1,0 +1,239 @@
+<?xml version="1.0" ?>
+<scenario>
+	<world>
+		<region name="USA">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">97.15369</maxSubResource>
+					<mid-price fillout="1" year="2020">2.76055</mid-price>
+					<curve-exponent fillout="1" year="2020">1.56679</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Africa_Eastern">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">114.46054</maxSubResource>
+					<mid-price fillout="1" year="2020">3.11239</mid-price>
+					<curve-exponent fillout="1" year="2020">1.70701</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Africa_Northern">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">200.39998</maxSubResource>
+					<mid-price fillout="1" year="2020">4.32028</mid-price>
+					<curve-exponent fillout="1" year="2020">3.03601</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Africa_Southern">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">37.08453</maxSubResource>
+					<mid-price fillout="1" year="2020">12.96854</mid-price>
+					<curve-exponent fillout="1" year="2020">2.70756</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Africa_Western">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">170.65249</maxSubResource>
+					<mid-price fillout="1" year="2020">3.93055</mid-price>
+					<curve-exponent fillout="1" year="2020">2.12256</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Australia_NZ">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">178.60999</maxSubResource>
+					<mid-price fillout="1" year="2020">3.11484</mid-price>
+					<curve-exponent fillout="1" year="2020">2.33633</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Brazil">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">19.98524</maxSubResource>
+					<mid-price fillout="1" year="2020">10.09153</mid-price>
+					<curve-exponent fillout="1" year="2020">1.75004</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Canada">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">15.5789</maxSubResource>
+					<mid-price fillout="1" year="2020">4.05953</mid-price>
+					<curve-exponent fillout="1" year="2020">2.98094</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Central Asia">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">164.20065</maxSubResource>
+					<mid-price fillout="1" year="2020">1.77299</mid-price>
+					<curve-exponent fillout="1" year="2020">1.60264</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="China">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">79.36668</maxSubResource>
+					<mid-price fillout="1" year="2020">6.53915</mid-price>
+					<curve-exponent fillout="1" year="2020">1.71004</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="EU-12">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">6.83235</maxSubResource>
+					<mid-price fillout="1" year="2020">3.65959</mid-price>
+					<curve-exponent fillout="1" year="2020">2.30101</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="EU-15">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">25.37112</maxSubResource>
+					<mid-price fillout="1" year="2020">5.43428</mid-price>
+					<curve-exponent fillout="1" year="2020">1.44064</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Europe_Eastern">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">11.45432</maxSubResource>
+					<mid-price fillout="1" year="2020">3.64795</mid-price>
+					<curve-exponent fillout="1" year="2020">1.40337</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Europe_Non_EU">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">4.53322</maxSubResource>
+					<mid-price fillout="1" year="2020">10.8136</mid-price>
+					<curve-exponent fillout="1" year="2020">14.99994</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="European Free Trade Association">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">2.92335</maxSubResource>
+					<mid-price fillout="1" year="2020">4.19663</mid-price>
+					<curve-exponent fillout="1" year="2020">1.00004</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="India">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">15.86849</maxSubResource>
+					<mid-price fillout="1" year="2020">9.41618</mid-price>
+					<curve-exponent fillout="1" year="2020">1.70918</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Japan">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">0.74064</maxSubResource>
+					<mid-price fillout="1" year="2020">6.56677</mid-price>
+					<curve-exponent fillout="1" year="2020">1.43531</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Mexico">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">8.18053</maxSubResource>
+					<mid-price fillout="1" year="2020">12.50406</mid-price>
+					<curve-exponent fillout="1" year="2020">2.14223</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Middle East">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">106.64391</maxSubResource>
+					<mid-price fillout="1" year="2020">8.40963</mid-price>
+					<curve-exponent fillout="1" year="2020">2.6177</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Pakistan">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">9.15807</maxSubResource>
+					<mid-price fillout="1" year="2020">6.34047</mid-price>
+					<curve-exponent fillout="1" year="2020">1.58674</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Russia">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">67.9831</maxSubResource>
+					<mid-price fillout="1" year="2020">5.5844</mid-price>
+					<curve-exponent fillout="1" year="2020">3.13004</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="South Africa">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">20.53188</maxSubResource>
+					<mid-price fillout="1" year="2020">6.09502</mid-price>
+					<curve-exponent fillout="1" year="2020">1.88373</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="South America_Southern">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">9.91402</maxSubResource>
+					<mid-price fillout="1" year="2020">6.58676</mid-price>
+					<curve-exponent fillout="1" year="2020">1.92018</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="South Asia">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">10.42238</maxSubResource>
+					<mid-price fillout="1" year="2020">4.36285</mid-price>
+					<curve-exponent fillout="1" year="2020">1.00004</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Argentina">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">50.66843</maxSubResource>
+					<mid-price fillout="1" year="2020">1.88531</mid-price>
+					<curve-exponent fillout="1" year="2020">1.00004</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Colombia">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">0.45473</maxSubResource>
+					<mid-price fillout="1" year="2020">5.25384</mid-price>
+					<curve-exponent fillout="1" year="2020">1.3612</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+	</world>
+</scenario>

@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<scenario>
+	<world>
+		<region name="Central America and Caribbean">
+			<renewresource name="onshore wind resource">
+				<sub-renewable-resource name="onshore wind resource">
+					<grade name="grade 1">
+						<available>0</available>
+						<extractioncost>0</extractioncost>
+					</grade>
+					<grade name="grade 2">
+						<available>1</available>
+						<extractioncost>0.05</extractioncost>
+					</grade>
+					<maxSubResource fillout="1" year="2075">0.99957</maxSubResource>
+				</sub-renewable-resource>
+			</renewresource>
+		</region>
+		<region name="Indonesia">
+			<renewresource name="onshore wind resource">
+				<sub-renewable-resource name="onshore wind resource">
+					<grade name="grade 1">
+						<available>0</available>
+						<extractioncost>0</extractioncost>
+					</grade>
+					<grade name="grade 2">
+						<available>1</available>
+						<extractioncost>0.05</extractioncost>
+					</grade>
+					<maxSubResource fillout="1" year="2075">0.37963</maxSubResource>
+				</sub-renewable-resource>
+			</renewresource>
+		</region>
+		<region name="South America_Northern">
+			<renewresource name="onshore wind resource">
+				<sub-renewable-resource name="onshore wind resource">
+					<grade name="grade 1">
+						<available>0</available>
+						<extractioncost>0</extractioncost>
+					</grade>
+					<grade name="grade 2">
+						<available>0.10525</available>
+						<extractioncost>0.5764</extractioncost>
+					</grade>
+					<grade name="grade 3">
+						<available>0.23322</available>
+						<extractioncost>3.1703</extractioncost>
+					</grade>
+					<grade name="grade 4">
+						<available>0.2503</available>
+						<extractioncost>6.3407</extractioncost>
+					</grade>
+					<grade name="grade 5">
+						<available>0.25527</available>
+						<extractioncost>8.877</extractioncost>
+					</grade>
+					<grade name="grade 6">
+						<available>1.0</available>
+						<extractioncost>27.4763</extractioncost>
+					</grade>
+					<maxSubResource fillout="1" year="2075">2.12465</maxSubResource>
+				</sub-renewable-resource>
+			</renewresource>
+		</region>
+		<region name="South Korea">
+			<renewresource name="onshore wind resource">
+				<sub-renewable-resource name="onshore wind resource">
+					<grade name="grade 1">
+						<available>0</available>
+						<extractioncost>0</extractioncost>
+					</grade>
+					<grade name="grade 2">
+						<available>1</available>
+						<extractioncost>0.05</extractioncost>
+					</grade>
+					<maxSubResource fillout="1" year="2075">0.17334</maxSubResource>
+				</sub-renewable-resource>
+			</renewresource>
+		</region>
+		<region name="Southeast Asia">
+			<renewresource name="onshore wind resource">
+				<sub-renewable-resource name="onshore wind resource">
+					<grade name="grade 1">
+						<available>0</available>
+						<extractioncost>0</extractioncost>
+					</grade>
+					<grade name="grade 2">
+						<available>0.35354</available>
+						<extractioncost>0.5764</extractioncost>
+					</grade>
+					<grade name="grade 3">
+						<available>0.36847</available>
+						<extractioncost>1.2681</extractioncost>
+					</grade>
+					<grade name="grade 4">
+						<available>0.41479</available>
+						<extractioncost>2.1136</extractioncost>
+					</grade>
+					<grade name="grade 5">
+						<available>0.42733</available>
+						<extractioncost>3.1703</extractioncost>
+					</grade>
+					<grade name="grade 6">
+						<available>0.44518</available>
+						<extractioncost>4.5291</extractioncost>
+					</grade>
+					<grade name="grade 7">
+						<available>0.4915</available>
+						<extractioncost>6.3407</extractioncost>
+					</grade>
+					<grade name="grade 8">
+						<available>0.51175</available>
+						<extractioncost>8.877</extractioncost>
+					</grade>
+					<grade name="grade 9">
+						<available>1.0</available>
+						<extractioncost>27.4763</extractioncost>
+					</grade>
+					<maxSubResource fillout="1" year="2075">7.54769</maxSubResource>
+				</sub-renewable-resource>
+			</renewresource>
+		</region>
+	</world>
+</scenario>
