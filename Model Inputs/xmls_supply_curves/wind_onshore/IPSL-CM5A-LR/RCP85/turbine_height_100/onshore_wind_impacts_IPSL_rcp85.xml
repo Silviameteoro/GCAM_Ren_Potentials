@@ -1,0 +1,395 @@
+<?xml version="1.0" ?>
+<scenario>
+	<world>
+		<region name="USA">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">95.40782</maxSubResource>
+					<maxSubResource fillout="1" year="2045">85.9294</maxSubResource>
+					<maxSubResource fillout="1" year="2075">80.76149</maxSubResource>
+					<mid-price fillout="1" year="2020">2.71909</mid-price>
+					<mid-price fillout="1" year="2045">3.85463</mid-price>
+					<mid-price fillout="1" year="2075">4.48491</mid-price>
+					<curve-exponent fillout="1" year="2020">1.63637</curve-exponent>
+					<curve-exponent fillout="1" year="2045">2.04155</curve-exponent>
+					<curve-exponent fillout="1" year="2075">2.14891</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Africa_Eastern">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">125.74579</maxSubResource>
+					<maxSubResource fillout="1" year="2045">132.48547</maxSubResource>
+					<maxSubResource fillout="1" year="2075">135.2426</maxSubResource>
+					<mid-price fillout="1" year="2020">2.85079</mid-price>
+					<mid-price fillout="1" year="2045">2.62816</mid-price>
+					<mid-price fillout="1" year="2075">2.48674</mid-price>
+					<curve-exponent fillout="1" year="2020">1.6375</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.5855</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.51962</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Africa_Northern">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">209.64159</maxSubResource>
+					<maxSubResource fillout="1" year="2045">214.88839</maxSubResource>
+					<maxSubResource fillout="1" year="2075">213.2999</maxSubResource>
+					<mid-price fillout="1" year="2020">3.96753</mid-price>
+					<mid-price fillout="1" year="2045">3.77167</mid-price>
+					<mid-price fillout="1" year="2075">3.75761</mid-price>
+					<curve-exponent fillout="1" year="2020">3.05974</curve-exponent>
+					<curve-exponent fillout="1" year="2045">2.63825</curve-exponent>
+					<curve-exponent fillout="1" year="2075">2.2919</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Africa_Southern">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">43.90973</maxSubResource>
+					<maxSubResource fillout="1" year="2045">48.10191</maxSubResource>
+					<maxSubResource fillout="1" year="2075">54.1003</maxSubResource>
+					<mid-price fillout="1" year="2020">9.06101</mid-price>
+					<mid-price fillout="1" year="2045">8.10321</mid-price>
+					<mid-price fillout="1" year="2075">6.26992</mid-price>
+					<curve-exponent fillout="1" year="2020">2.9096</curve-exponent>
+					<curve-exponent fillout="1" year="2045">2.51523</curve-exponent>
+					<curve-exponent fillout="1" year="2075">2.17347</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Africa_Western">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">191.71643</maxSubResource>
+					<maxSubResource fillout="1" year="2045">209.22631</maxSubResource>
+					<maxSubResource fillout="1" year="2075">228.48677</maxSubResource>
+					<mid-price fillout="1" year="2020">3.04</mid-price>
+					<mid-price fillout="1" year="2045">2.79373</mid-price>
+					<mid-price fillout="1" year="2075">2.30193</mid-price>
+					<curve-exponent fillout="1" year="2020">1.93393</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.83967</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.62928</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Australia_NZ">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">199.88814</maxSubResource>
+					<maxSubResource fillout="1" year="2045">222.29634</maxSubResource>
+					<maxSubResource fillout="1" year="2075">238.36985</maxSubResource>
+					<mid-price fillout="1" year="2020">2.72049</mid-price>
+					<mid-price fillout="1" year="2045">1.93322</mid-price>
+					<mid-price fillout="1" year="2075">1.43221</mid-price>
+					<curve-exponent fillout="1" year="2020">2.26396</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.73088</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.51247</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Brazil">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">25.03874</maxSubResource>
+					<maxSubResource fillout="1" year="2045">27.02408</maxSubResource>
+					<maxSubResource fillout="1" year="2075">28.26323</maxSubResource>
+					<mid-price fillout="1" year="2020">10.15305</mid-price>
+					<mid-price fillout="1" year="2045">10.25774</mid-price>
+					<mid-price fillout="1" year="2075">8.90227</mid-price>
+					<curve-exponent fillout="1" year="2020">1.45486</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.3637</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.31152</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Canada">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">15.97754</maxSubResource>
+					<maxSubResource fillout="1" year="2045">15.43119</maxSubResource>
+					<maxSubResource fillout="1" year="2075">14.75193</maxSubResource>
+					<mid-price fillout="1" year="2020">3.77568</mid-price>
+					<mid-price fillout="1" year="2045">4.21004</mid-price>
+					<mid-price fillout="1" year="2075">4.89613</mid-price>
+					<curve-exponent fillout="1" year="2020">2.61602</curve-exponent>
+					<curve-exponent fillout="1" year="2045">2.53893</curve-exponent>
+					<curve-exponent fillout="1" year="2075">2.2576</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Central Asia">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">169.30058</maxSubResource>
+					<maxSubResource fillout="1" year="2045">165.59508</maxSubResource>
+					<maxSubResource fillout="1" year="2075">164.40232</maxSubResource>
+					<mid-price fillout="1" year="2020">2.13129</mid-price>
+					<mid-price fillout="1" year="2045">1.64371</mid-price>
+					<mid-price fillout="1" year="2075">1.6027</mid-price>
+					<curve-exponent fillout="1" year="2020">1.92078</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.46545</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.39692</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="China">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">83.95407</maxSubResource>
+					<maxSubResource fillout="1" year="2045">80.42654</maxSubResource>
+					<maxSubResource fillout="1" year="2075">76.00739</maxSubResource>
+					<mid-price fillout="1" year="2020">7.15159</mid-price>
+					<mid-price fillout="1" year="2045">7.76194</mid-price>
+					<mid-price fillout="1" year="2075">7.84975</mid-price>
+					<curve-exponent fillout="1" year="2020">1.85663</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.8741</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.75636</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="EU-12">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">6.24279</maxSubResource>
+					<maxSubResource fillout="1" year="2045">6.2145</maxSubResource>
+					<maxSubResource fillout="1" year="2075">6.29855</maxSubResource>
+					<mid-price fillout="1" year="2020">5.04032</mid-price>
+					<mid-price fillout="1" year="2045">4.93275</mid-price>
+					<mid-price fillout="1" year="2075">4.66282</mid-price>
+					<curve-exponent fillout="1" year="2020">3.1972</curve-exponent>
+					<curve-exponent fillout="1" year="2045">2.77203</curve-exponent>
+					<curve-exponent fillout="1" year="2075">2.516</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="EU-15">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">25.31886</maxSubResource>
+					<maxSubResource fillout="1" year="2045">24.74461</maxSubResource>
+					<maxSubResource fillout="1" year="2075">23.81826</maxSubResource>
+					<mid-price fillout="1" year="2020">5.59266</mid-price>
+					<mid-price fillout="1" year="2045">5.58961</mid-price>
+					<mid-price fillout="1" year="2075">5.9151</mid-price>
+					<curve-exponent fillout="1" year="2020">1.52343</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.45887</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.47421</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Europe_Eastern">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">10.74614</maxSubResource>
+					<maxSubResource fillout="1" year="2045">10.64836</maxSubResource>
+					<maxSubResource fillout="1" year="2075">10.99214</maxSubResource>
+					<mid-price fillout="1" year="2020">3.03148</mid-price>
+					<mid-price fillout="1" year="2045">3.34856</mid-price>
+					<mid-price fillout="1" year="2075">3.95598</mid-price>
+					<curve-exponent fillout="1" year="2020">1.39659</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.32626</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.28095</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Europe_Non_EU">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">4.49916</maxSubResource>
+					<maxSubResource fillout="1" year="2045">4.45824</maxSubResource>
+					<maxSubResource fillout="1" year="2075">4.35817</maxSubResource>
+					<mid-price fillout="1" year="2020">10.77741</mid-price>
+					<mid-price fillout="1" year="2045">10.95376</mid-price>
+					<mid-price fillout="1" year="2075">10.9397</mid-price>
+					<curve-exponent fillout="1" year="2020">14.99994</curve-exponent>
+					<curve-exponent fillout="1" year="2045">14.99995</curve-exponent>
+					<curve-exponent fillout="1" year="2075">14.99995</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="European Free Trade Association">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">2.99505</maxSubResource>
+					<maxSubResource fillout="1" year="2045">2.95963</maxSubResource>
+					<maxSubResource fillout="1" year="2075">3.02461</maxSubResource>
+					<mid-price fillout="1" year="2020">4.31221</mid-price>
+					<mid-price fillout="1" year="2045">4.2589</mid-price>
+					<mid-price fillout="1" year="2075">4.5558</mid-price>
+					<curve-exponent fillout="1" year="2020">1.00004</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.1586</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.20056</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="India">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">16.59715</maxSubResource>
+					<maxSubResource fillout="1" year="2045">17.04994</maxSubResource>
+					<maxSubResource fillout="1" year="2075">17.82181</maxSubResource>
+					<mid-price fillout="1" year="2020">7.85182</mid-price>
+					<mid-price fillout="1" year="2045">7.38509</mid-price>
+					<mid-price fillout="1" year="2075">7.7487</mid-price>
+					<curve-exponent fillout="1" year="2020">1.68685</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.55267</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.62602</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Japan">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">0.7432</maxSubResource>
+					<maxSubResource fillout="1" year="2045">0.69382</maxSubResource>
+					<maxSubResource fillout="1" year="2075">0.65788</maxSubResource>
+					<mid-price fillout="1" year="2020">8.3302</mid-price>
+					<mid-price fillout="1" year="2045">8.82316</mid-price>
+					<mid-price fillout="1" year="2075">8.26197</mid-price>
+					<curve-exponent fillout="1" year="2020">1.66421</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.72045</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.79933</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Mexico">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">9.26425</maxSubResource>
+					<maxSubResource fillout="1" year="2045">10.54144</maxSubResource>
+					<maxSubResource fillout="1" year="2075">12.20319</maxSubResource>
+					<mid-price fillout="1" year="2020">11.40327</mid-price>
+					<mid-price fillout="1" year="2045">9.9625</mid-price>
+					<mid-price fillout="1" year="2075">8.01539</mid-price>
+					<curve-exponent fillout="1" year="2020">1.86719</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.65696</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.56923</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Middle East">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">108.529</maxSubResource>
+					<maxSubResource fillout="1" year="2045">109.92604</maxSubResource>
+					<maxSubResource fillout="1" year="2075">107.88621</maxSubResource>
+					<mid-price fillout="1" year="2020">8.12436</mid-price>
+					<mid-price fillout="1" year="2045">7.70296</mid-price>
+					<mid-price fillout="1" year="2075">8.53998</mid-price>
+					<curve-exponent fillout="1" year="2020">3.29083</curve-exponent>
+					<curve-exponent fillout="1" year="2045">3.47655</curve-exponent>
+					<curve-exponent fillout="1" year="2075">3.53349</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Pakistan">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">9.04005</maxSubResource>
+					<maxSubResource fillout="1" year="2045">9.06045</maxSubResource>
+					<maxSubResource fillout="1" year="2075">8.98224</maxSubResource>
+					<mid-price fillout="1" year="2020">6.16033</mid-price>
+					<mid-price fillout="1" year="2045">6.17799</mid-price>
+					<mid-price fillout="1" year="2075">5.95714</mid-price>
+					<curve-exponent fillout="1" year="2020">1.40038</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.38836</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.23257</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Russia">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">65.82148</maxSubResource>
+					<maxSubResource fillout="1" year="2045">64.47412</maxSubResource>
+					<maxSubResource fillout="1" year="2075">66.66684</maxSubResource>
+					<mid-price fillout="1" year="2020">6.50824</mid-price>
+					<mid-price fillout="1" year="2045">6.6207</mid-price>
+					<mid-price fillout="1" year="2075">6.22415</mid-price>
+					<curve-exponent fillout="1" year="2020">2.8194</curve-exponent>
+					<curve-exponent fillout="1" year="2045">2.96494</curve-exponent>
+					<curve-exponent fillout="1" year="2075">3.02587</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="South Africa">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">27.77217</maxSubResource>
+					<maxSubResource fillout="1" year="2045">30.54186</maxSubResource>
+					<maxSubResource fillout="1" year="2075">33.3014</maxSubResource>
+					<mid-price fillout="1" year="2020">3.54151</mid-price>
+					<mid-price fillout="1" year="2045">3.3162</mid-price>
+					<mid-price fillout="1" year="2075">2.53137</mid-price>
+					<curve-exponent fillout="1" year="2020">1.62374</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.73687</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.57916</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="South America_Southern">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">10.88076</maxSubResource>
+					<maxSubResource fillout="1" year="2045">11.26823</maxSubResource>
+					<maxSubResource fillout="1" year="2075">11.24401</maxSubResource>
+					<mid-price fillout="1" year="2020">5.37538</mid-price>
+					<mid-price fillout="1" year="2045">4.53665</mid-price>
+					<mid-price fillout="1" year="2075">4.57669</mid-price>
+					<curve-exponent fillout="1" year="2020">1.637</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.43212</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.33503</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="South Asia">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">10.03645</maxSubResource>
+					<maxSubResource fillout="1" year="2045">9.76442</maxSubResource>
+					<maxSubResource fillout="1" year="2075">9.28845</maxSubResource>
+					<mid-price fillout="1" year="2020">4.67315</mid-price>
+					<mid-price fillout="1" year="2045">4.31609</mid-price>
+					<mid-price fillout="1" year="2075">4.39583</mid-price>
+					<curve-exponent fillout="1" year="2020">1.00004</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.00004</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.00004</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Argentina">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">57.14665</maxSubResource>
+					<maxSubResource fillout="1" year="2045">60.318</maxSubResource>
+					<maxSubResource fillout="1" year="2075">60.14867</maxSubResource>
+					<mid-price fillout="1" year="2020">1.45316</mid-price>
+					<mid-price fillout="1" year="2045">1.10518</mid-price>
+					<mid-price fillout="1" year="2075">1.33924</mid-price>
+					<curve-exponent fillout="1" year="2020">1.00004</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.00004</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.00004</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+		<region name="Colombia">
+			<renewresource name="onshore wind resource">
+				<smooth-renewable-subresource name="onshore wind resource">
+					<maxSubResource fillout="1" year="2020">0.48622</maxSubResource>
+					<maxSubResource fillout="1" year="2045">0.49867</maxSubResource>
+					<maxSubResource fillout="1" year="2075">0.49102</maxSubResource>
+					<mid-price fillout="1" year="2020">7.36542</mid-price>
+					<mid-price fillout="1" year="2045">7.78567</mid-price>
+					<mid-price fillout="1" year="2075">5.98372</mid-price>
+					<curve-exponent fillout="1" year="2020">1.80114</curve-exponent>
+					<curve-exponent fillout="1" year="2045">1.81616</curve-exponent>
+					<curve-exponent fillout="1" year="2075">1.38805</curve-exponent>
+				</smooth-renewable-subresource>
+			</renewresource>
+		</region>
+	</world>
+</scenario>
